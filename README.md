@@ -13,17 +13,17 @@
 
 ### Specifications
 * _**The program returns when a year is not a leap year.**_
-* _***Input Example: 1993***_
-* _***Output Example: false***_
+* _Input Example: 1993_
+* _Output Example: false_
 * _**The program should return 'true' for years divisible by 4, since those are leap years.**_
-* _***Input Example: 2004***_
-* _***Output Example: true***_
+* _Input Example: 2004_
+* _Output Example: true_
 * _**The program should return 'false' for years divisible by 100, since those are not leap years.**_
-* _***Input Example: 1900***_
-* _***Output Example: false***_
+* _Input Example: 1900_
+* _Output Example: false_
 * _**The program should return 'true' for years divisible by 400, since those are leap years.**_
-* _***Input Example: 2000***_
-* _***Output Example: true***_
+* _Input Example: 2000_
+* _Output Example: true_
 
 ### Complete setup/installation instructions
 1. _Go to GitHub profile and project @ [TanviCodeLife](https://github.com/TanviCodeLife/leap-year) and [J-Michael-Brown] (https://github.com/J-Michael-Brown/leap-year)._
